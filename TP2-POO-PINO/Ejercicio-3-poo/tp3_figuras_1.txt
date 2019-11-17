@@ -1,0 +1,19 @@
+Resolucion: 30x30 puntos
+Relleno Perzonalizado *
+
+Figura      Color  Vertice 1 / Centro  Vertie 2 / Radio  Vertice 3  Vertice 4
+Segmento    #2     1, 1                9, 1                
+Rectangulo  #4     1, 1                6, 1              6, 6       1,6
+Triangulo   #3     1, 1                15, 1             8, 10       
+Segmento    #2     1, 1                1, 9                
+Rectangulo  #4     9, 9                5, 9              5, 5       9,5
+Circulo     #7     9, 9                5
+Error (Parametros invalidos)
+Error (Figura inexistente)
+
+Líneas de entidad en el archivo: 8
+Errores: 2
+Segmentos: 2
+Triangulos: 1
+Rectangulos: 2
+Circulos: 1

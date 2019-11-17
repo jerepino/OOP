@@ -1,0 +1,15 @@
+30 5 18 3 tomar
+10 20 30 5 rotar
+40 60 18 4 soltar
+30 5 18 3 tomar
+10 20 30 5 rotar
+40 60 18 4 soltar
+30 5 18 3 tomar
+10 20 30 5 rotar
+40 60 18 4 soltar
+30 5 18 3 tomar
+10 20 30 5 rotar
+40 60 18 4 soltar
+30 5 18 3 tomar
+10 20 30 5 rotar
+40 60 18 4 soltar
